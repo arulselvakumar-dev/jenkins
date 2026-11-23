@@ -1,1 +1,1 @@
-echo "github integrartion with jenkins"
+echo "Hello from github-integration demo!"
